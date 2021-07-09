@@ -32,6 +32,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
   ![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+  ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
   <br>
   ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-4C4C4C?style=flat&logo=sublimetext&logoColor=FF9800)
