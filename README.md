@@ -25,7 +25,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 <br>
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-black?style=flat&logo=sublimetext&logoColor=FF9800)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-66595C?style=flat&logo=sublimetext&logoColor=FF9800)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=webstorm&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=pycharm&logoColor=white)
 ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white)
