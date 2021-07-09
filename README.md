@@ -9,7 +9,7 @@
   
   I'm also an intern with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), where I am working to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
   
-  ### **My Favorites**
+  ### **My Experience & Favorites**
   
   <a href="https://docs.microsoft.com/en-us/powershell/">
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="Powershell" />
