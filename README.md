@@ -23,5 +23,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 <br>
+![Google Chrome](https://img.shields.io/badge/-Google_Chrome-black?style=flat-square&logo=googlechrome)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
