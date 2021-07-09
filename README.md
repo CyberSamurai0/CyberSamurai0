@@ -26,3 +26,4 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-black?style=flat&logo=sublimetext&logoColor=FF9800)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=webstorm&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-black?style=flat&logo=pycharm&logoColor=white)
