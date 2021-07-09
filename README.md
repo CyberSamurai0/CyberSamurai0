@@ -43,11 +43,11 @@
   <a href="https://www.npmjs.com/">
     <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
   </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" alt="Docker" />
   </a>
   <br>
   <a href="https://expressjs.com/">
