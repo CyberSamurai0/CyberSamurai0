@@ -1,7 +1,7 @@
 <div align="center">
   
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
-  ### __My Favorites__
+  ### **My Favorites**
   
   ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
