@@ -25,6 +25,7 @@
   ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
   ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFCA28)
+  ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)
   <br>
   ![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
