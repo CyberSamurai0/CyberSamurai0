@@ -24,7 +24,7 @@
   ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
   ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
   ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFCA28)
   <br>
   ![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
