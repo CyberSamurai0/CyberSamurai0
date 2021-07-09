@@ -2,6 +2,7 @@
 
 ### Favorites:
 
+<div align="center">
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -35,3 +36,4 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=pycharm&logoColor=white)
 ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white)
 ![Adobe CC](https://img.shields.io/badge/-Adobe_CC-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
+</div>
