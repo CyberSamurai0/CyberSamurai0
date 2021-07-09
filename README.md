@@ -3,7 +3,7 @@
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
   ### **My Favorites**
   
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="Powershell" />
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=python&logoColor=white)
@@ -41,4 +41,7 @@
   ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white)
   ![Adobe CC](https://img.shields.io/badge/-Adobe_CC-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
   
+  ### **About Me**
+  
+  I do a lot of private development
 </div>
