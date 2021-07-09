@@ -1,5 +1,4 @@
 <div align="center">
-  
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
   ### __My Favorites__
   
