@@ -20,4 +20,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-%20-?style=flat-square&logo=adobephotoshop&logoColor=white)![Illustrator](https://img.shields.io/badge/--FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/--?style=flat-square&logo=adobephotoshop&logoColor=white)![Illustrator](https://img.shields.io/badge/--FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
