@@ -66,20 +66,49 @@
     <img src="https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <br>
-  ![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![GitKraken](https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
-  ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white)
+  <a href="https://www.google.com/chrome/">
+    <img src="https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Google Chrome" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/">
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.gitkraken.com/">
+    <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="GitKraken" />
+  </a>
+  <a href="https://www.heroku.com/">
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
+  </a>
+  <a href="https://us.ovhcloud.com/">
+    <img src="https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white" alt="OVH" />
+  </a>
+  <a href="https://filezilla-project.org/">
+    <img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" alt="FileZilla" />
+  </a>
   <br>
-  ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-4C4C4C?style=flat&logo=sublimetext&logoColor=FF9800)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-3ac1ce?style=flat&logo=webstorm&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-54bd82?style=flat&logo=pycharm&logoColor=white)
-  ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white)
-  ![Adobe CC](https://img.shields.io/badge/-Adobe_CC-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
+  <a href="https://www.eclipse.org/ide/">
+    <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse IDE" />
+  </a>
+  <a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/-Sublime_Text-4C4C4C?style=flat&logo=sublimetext&logoColor=FF9800" alt="Sublime Text" />
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/">
+    <img src="https://img.shields.io/badge/-WebStorm-3ac1ce?style=flat&logo=webstorm&logoColor=white" alt="WebStorm" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/-PyCharm-54bd82?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
+  </a>
+  <a href="https://atom.io/">
+    <img src="https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white" alt="Atom" />
+  </a>
+  <a href="https://www.adobe.com/creativecloud.html">
+    <img src="https://img.shields.io/badge/-Adobe_CC-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white" alt="Adobe CC" />
+  </a>
   
   ### **About Me**
   
