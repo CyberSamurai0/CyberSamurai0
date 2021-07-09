@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm <a class="text-bold Link--primary" data-hovercard-type="user" data-hovercard-url="/users/CyberSamurai0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CyberSamurai0">CyberSamurai0</a>.</h1>
+<h1 align="center">Hey! I'm <a class="text-bold Link--primary" data-hovercard-type="user" data-hovercard-url="/users/CyberSamurai0/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/CyberSamurai0">CyberSamurai0</a>.</h1>
 
 ### Favorites:
 
