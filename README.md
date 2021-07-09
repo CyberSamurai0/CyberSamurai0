@@ -25,7 +25,7 @@
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
 <br>
-![Google Chrome](https://img.shields.io/badge/-Google_Chrome-black?style=flat-square&logo=googlechrome)
+![Google Chrome](https://img.shields.io/badge/-Google_Chrome-black?style=flat-square&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
