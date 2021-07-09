@@ -31,10 +31,10 @@
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://www.sqlite.org/index.html">
+  <a href="https://www.sqlite.org/">
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
   </a>
-  <a href="https://www.json.org/json-en.html">
+  <a href="https://www.json.org/">
     <img src="https://img.shields.io/badge/-JSON-black?style=flat&logo=json&logoColor=white" alt="JSON" />
   </a>
   <a href="https://nodejs.org/en/">
@@ -47,12 +47,24 @@
     <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" alt="Docker" />
   </a>
   <br>
-  ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
-  ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
-  ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFCA28)
-  ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white" alt="Express" />
+  </a>
+  <a href="https://leafletjs.com/">
+    <img src="https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white" alt="Leaflet" />
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  </a>
+  <a href="https://cocoapods.org/">
+    <img src="https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white" alt="CocoaPods" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  </a>
+  <a href="https://stackoverflow.com/">
+    <img src="https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
   <br>
   ![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
