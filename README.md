@@ -14,10 +14,13 @@
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=json&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+<br>
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 <br>
 ![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
