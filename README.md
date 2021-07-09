@@ -3,7 +3,7 @@
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
   ### **My Favorites**
   
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="Powershell" />
+  <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="Powershell" /></a>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=python&logoColor=white" alt="Lua" />
