@@ -25,13 +25,27 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   </a>
   <br>
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=#F7DF1E)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-  ![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=json&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=#F7DF1E" alt="JavaScript" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+  </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/-JSON-black?style=flat&logo=json&logoColor=white" alt="JSON" />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  </a>
   <br>
   ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
   ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
