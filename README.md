@@ -1,6 +1,13 @@
 <div align="center">
   
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
+  ### **About Me**
+  
+  I do a lot of private development within gaming communities.
+  
+  For example, I'm currently working with [Geetsly's Gaming Network](https://geetslysgaming.net/) to help create and maintain Garry's Mod roleplay servers.
+  
+  I'm also an intern with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), in collaboration with the [City of Las Vegas](https://www.lasvegasnevada.gov/).
   ### **My Favorites**
   
   <a href="https://docs.microsoft.com/en-us/powershell/">
@@ -109,8 +116,4 @@
   <a href="https://www.adobe.com/creativecloud.html">
     <img src="https://img.shields.io/badge/-Adobe_CC-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white" alt="Adobe CC" />
   </a>
-  
-  ### **About Me**
-  
-  I do a lot of private development
 </div>
