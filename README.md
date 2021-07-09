@@ -1,6 +1,6 @@
 <h1 align="center">Hey!</h1>
 
-### Things I code with:
+### Favorites:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=python&logoColor=white)
