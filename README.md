@@ -1,5 +1,5 @@
 <h1 align="center">Hey!</h1>
-###Things I code with
+### Things I code with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
