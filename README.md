@@ -35,7 +35,7 @@
   <br>
   ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-4C4C4C?style=flat&logo=sublimetext&logoColor=FF9800)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=webstorm&logoColor=white)
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-3ac1ce?style=flat&logo=webstorm&logoColor=black)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=pycharm&logoColor=white)
   ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat&logo=atom&logoColor=white)
   ![Adobe CC](https://img.shields.io/badge/-Adobe_CC-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
