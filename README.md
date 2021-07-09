@@ -46,6 +46,9 @@
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" alt="Docker" />
   </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  </a>
   <br>
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white" alt="Express" />
@@ -71,9 +74,6 @@
   </a>
   <a href="https://www.microsoft.com/en-us/windows/">
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
