@@ -19,8 +19,10 @@
 <br>
 ![Google Chrome](https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Apple Music](https://img.shields.io/badge/-Apple_Music-FA243C?style=flat&logo=applemusic&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-#FF9800?style=flat&logo=sublimetext&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=pycharm&logoColor=white)
