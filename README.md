@@ -11,6 +11,7 @@
   ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   <br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=#F7DF1E)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -21,8 +22,8 @@
   ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
   <br>
   ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
   ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white)
   ![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFCA28)
   ![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)
