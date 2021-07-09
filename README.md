@@ -3,13 +3,27 @@
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
   ### **My Favorites**
   
-  <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="Powershell" /></a>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=python&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://docs.microsoft.com/en-us/powershell/">
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="Powershell" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.lua.org/">
+    <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=python&logoColor=white" alt="Lua" />
+  </a>
+  <a href="https://developer.apple.com/swift/">
+    <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
   <br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=#F7DF1E)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
