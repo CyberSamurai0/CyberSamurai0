@@ -20,7 +20,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
 <br>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
