@@ -7,7 +7,7 @@
   
   For example, I'm currently working with [Geetsly's Gaming Network](https://geetslysgaming.net/) to help create and maintain Garry's Mod roleplay servers.
   
-  I'm also an intern with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), where I am working to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
+  I previously interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
   
   ### **My Experience & Favorites**
   
