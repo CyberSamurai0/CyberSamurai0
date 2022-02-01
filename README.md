@@ -60,10 +60,10 @@
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" /></a>
   <a href="https://ubuntu.com/">
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
-  <a href="https://www.nginx.com/">
-    <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" /></a>
   <a href="https://www.apache.org/">
     <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache" /></a>
+  <a href="https://www.nginx.com/">
+    <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" /></a>
   <a href="https://www.gitkraken.com/">
     <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="GitKraken" /></a>
   <a href="https://www.heroku.com/">
