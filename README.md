@@ -60,6 +60,8 @@
     <img src="https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Google Chrome" /></a>
   <a href="https://www.microsoft.com/en-us/windows/">
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" /></a>
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/-Ubuntu-#E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.gitkraken.com/">
