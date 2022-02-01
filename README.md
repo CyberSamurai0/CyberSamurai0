@@ -56,14 +56,14 @@
   <a href="https://stackoverflow.com/">
     <img src="https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <br>
-  <a href="https://www.google.com/chrome/">
-    <img src="https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Google Chrome" /></a>
   <a href="https://www.microsoft.com/en-us/windows/">
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" /></a>
   <a href="https://ubuntu.com/">
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.nginx.com/">
+    <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" /></a>
+  <a href="https://www.apache.org/">
+    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white" alt="Apache" /></a>
   <a href="https://www.gitkraken.com/">
     <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white" alt="GitKraken" /></a>
   <a href="https://www.heroku.com/">
@@ -73,6 +73,10 @@
   <a href="https://filezilla-project.org/">
     <img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" alt="FileZilla" /></a>
   <br>
+  <a href="https://www.google.com/chrome/">
+    <img src="https://img.shields.io/badge/-Google_Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Google Chrome" /></a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.eclipse.org/ide/">
     <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse IDE" /></a>
   <a href="https://www.sublimetext.com/">
