@@ -5,7 +5,7 @@
   
   I do a lot of private development within gaming communities.
   
-  For example, I'm currently working with [Geetsly's Gaming Network](https://geetslys.net/) to help create and maintain Garry's Mod roleplay servers.
+  For example, I'm currently working with [Frontier Interactive](https://geetslys.net/) to help create and maintain gaming communities.
   
   I previously interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
   
