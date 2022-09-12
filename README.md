@@ -3,9 +3,9 @@
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
   ### **About Me**
   
-  I do a lot of private development within gaming communities.
+  I spent a lot of my time managing and developing gaming communities.
   
-  For example, I'm currently working with [Frontier Interactive](https://geetslys.net/) to help create and maintain gaming communities.
+  For example, I'm currently working with [Geetsly's & The Front](https://geetslys.net/) to introduce CI/CD throughout our development process.
   
   I previously interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
   
