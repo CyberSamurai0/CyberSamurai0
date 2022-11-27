@@ -70,6 +70,8 @@
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" /></a>
   <a href="https://us.ovhcloud.com/">
     <img src="https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white" alt="OVH" /></a>
+ <a href="https://www.vultr.com/">
+    <img src="https://img.shields.io/badge/-Vultr-007BFC?style=flat&logo=vultr&logoColor=white" alt="OVH" /></a>
   <a href="https://filezilla-project.org/">
     <img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" alt="FileZilla" /></a>
   <br>
