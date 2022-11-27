@@ -9,7 +9,7 @@
 
   I also interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/) in 2021, where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
 
-  <img src="https://user-images.githubusercontent.com/36649127/204116499-55c9d01c-7f5c-41c4-b455-43019dec7ad8.png" width="100px" />
+  <a href="https://www.credly.com/badges/514b3b61-e17c-49bb-8906-0cbd7b85ecd1/public_url"><img src="https://user-images.githubusercontent.com/36649127/204116499-55c9d01c-7f5c-41c4-b455-43019dec7ad8.png" width="100px" /></a>
   
   ### **My Experience & Favorites**
   
