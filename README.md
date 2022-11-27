@@ -18,7 +18,7 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.java.com/en/">
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /></a>
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=oracle&logoColor=white" alt="Java" /></a>
   <a href="https://www.lua.org/">
     <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=python&logoColor=white" alt="Lua" /></a>
   <a href="https://developer.apple.com/swift/">
