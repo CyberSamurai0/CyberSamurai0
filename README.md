@@ -3,11 +3,11 @@
   # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
   ### **About Me**
   
-  I spent a lot of my time managing and developing gaming communities.
+  I was the Operations Manager of the now-defunct gaming organization **[Frontier Interactive](https://geetslys.net/)**, where I coordinated systems development and oversaw community management associated with [Geetsly's](https://www.youtube.com/channel/UC8gT5G2ktLGoHlLm33EwOsA) and [The Front](https://www.youtube.com/channel/UCFHhnyA9HGtBxGhtMQ_FEpQ).
+
+  I also previously interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
+
   
-  For example, I'm currently working with [Geetsly's & The Front](https://geetslys.net/) to introduce CI/CD throughout our development process.
-  
-  I previously interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/), where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
   
   ### **My Experience & Favorites**
   
