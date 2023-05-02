@@ -5,7 +5,7 @@
   
   I'm currently studying cybersecurity at Purdue University and exploring the possibility of new work opportunities.
 
-  Previously, I was the Operations Manager of the now-dissolved gaming organization **[Frontier Interactive](https://geetslys.net/)**, where I coordinated systems development and oversaw community management associated with [Geetsly's](https://www.youtube.com/channel/UC8gT5G2ktLGoHlLm33EwOsA) and [The Front](https://www.youtube.com/channel/UCFHhnyA9HGtBxGhtMQ_FEpQ).
+  Previously, I was a Community Manager of the now-dissolved gaming organization **[Frontier Interactive](https://geetslys.net/)**, where I coordinated systems development and oversaw community management associated with [Geetsly's](https://www.youtube.com/channel/UC8gT5G2ktLGoHlLm33EwOsA) and [The Front](https://www.youtube.com/channel/UCFHhnyA9HGtBxGhtMQ_FEpQ).
 
   I also interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/) in 2021, where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
   
