@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hey! I'm [CyberSamurai0](https://github.com/CyberSamurai0)</a>.
+  # Hey! I'm [Colin](https://github.com/CyberSamurai0)</a>.
   ### **About Me**
   
   I'm currently studying cybersecurity at Purdue University and exploring the possibility of new work opportunities.
