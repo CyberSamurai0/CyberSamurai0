@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#" /></a>
   <br>
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=#F7DF1E" alt="JavaScript" /></a>
