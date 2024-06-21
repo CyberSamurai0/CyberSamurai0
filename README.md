@@ -3,7 +3,7 @@
   # Hey! I'm [Colin Saumure](https://github.com/CyberSamurai0)</a>.
   ### **About Me**
   
-  I'm currently studying both Cybersecurity and Network Engineering Technology at Purdue University. I am not actively looking for work.
+  I'm currently working at ReliaQuest as a Security Operations intern. I'm also studying both Cybersecurity and Network Engineering Technology at Purdue University.
 
   Previously, I was a Community Manager of the now-dissolved gaming organization **[Frontier Interactive](https://web.archive.org/web/20231217223334/https://geetslys.net/)**, where I coordinated systems development and oversaw the operations of our communities associated with [Geetsly's](https://www.youtube.com/channel/UC8gT5G2ktLGoHlLm33EwOsA) and [The Front](https://www.youtube.com/channel/UCFHhnyA9HGtBxGhtMQ_FEpQ).
 
