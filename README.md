@@ -2,12 +2,11 @@
   
   # Hey! I'm [Colin Saumure](https://github.com/CyberSamurai0)</a>.
   ### **About Me**
+  I'm currently working as a Technical Support Engineer at **[Verkada](https://verkada.com/)**.
   
-  I'm currently studying both Cybersecurity and Network Engineering Technology at Purdue University.
+  I have a Bachelors in Cybersecurity and Network Engineering from Purdue University.<br>While there, I took additional courses on DC circuits, microcontrollers, and PLCs.
 
   Previously, I worked at **[ReliaQuest](https://reliaquest.com/)** as a Security Operations intern. While there, I regularly used GreyMatter, Splunk, Azure Sentinel, Exabeam, Microsoft Defender for Endpoint, CrowdStrike, SentinelOne, and other popular security tools to analyze incoming alerts for our customers.
-
-  I was formerly a Community Manager of the now-dissolved gaming organization **[Frontier Interactive](https://web.archive.org/web/20231217223334/https://geetslys.net/)**, where I coordinated systems development and oversaw the operations of our communities associated with [Geetsly's](https://www.youtube.com/channel/UC8gT5G2ktLGoHlLm33EwOsA) and [The Front](https://www.youtube.com/channel/UCFHhnyA9HGtBxGhtMQ_FEpQ).
 
   I also interned with the [Real-Time Intelligent Systems Laboratory](http://rtis.oit.unlv.edu/) at the [University of Nevada, Las Vegas](https://www.unlv.edu/) in 2021, where I worked to create a live visualization for Signal Phase and Timing (SPaT) information in the city.
   
